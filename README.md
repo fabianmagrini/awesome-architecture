@@ -5,6 +5,7 @@
 * [Making Architecture Matter - Martin Fowler Keynote](https://youtu.be/DngAZyWMGR0) (15 min)
 * ["Agile Architecture" - Molly Dishman & Martin Fowler Keynote](https://youtu.be/VjKYO6DP3fo) (40 min)
 * [James Birnie: What does GREAT Architecture Look like? - SCL Conf 2019](https://youtu.be/LJIfHmYQ6Zs) (50 min)
+* [Architecture without Architects - Erik Dörnenburg](https://youtu.be/qVyt3qQ_7TA) (52 min)
 * [Agile Software Architecture - Ian Cooper](https://youtu.be/3YCIw3gewFE) (1hr 10 min)
 * [Emily Bache - Technical Leadership and Empowered Teams](https://youtu.be/qnujkFY2gKs) (50 min)
 * [Simon Brown: The Lost Art of Software Design - SCL Conf 2019](https://youtu.be/qO73yObPYac) (50 min)
