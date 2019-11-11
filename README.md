@@ -106,6 +106,7 @@
 
 * [Lightweight Architecture Decision Records](https://www.thoughtworks.com/radar/techniques/lightweight-architecture-decision-records)
 * [ADR Tools](https://github.com/npryce/adr-tools)
+* [Markdown Architectural Decision Records](https://adr.github.io/madr/)
 
 ## Visualising
 
