@@ -9,6 +9,7 @@
 * [Agile Software Architecture - Ian Cooper](https://youtu.be/3YCIw3gewFE) (1hr 10 min)
 * [Emily Bache - Technical Leadership and Empowered Teams](https://youtu.be/qnujkFY2gKs) (50 min)
 * [Simon Brown: The Lost Art of Software Design - SCL Conf 2019](https://youtu.be/qO73yObPYac) (50 min)
+* [Qualities of a Highly Effective Architect Keynote by Venkat Subramaniam](https://youtu.be/QeKheNfO3Yg) (50 min)
 
 ## Book Lists and Books
 
@@ -108,7 +109,11 @@
 * [ADR Tools](https://github.com/npryce/adr-tools)
 * [Markdown Architectural Decision Records](https://adr.github.io/madr/)
 
-## Visualising
+### arc42
+
+* [arc42 is a template for architecture communication and documentation](https://arc42.org/overview/)
+
+## Visualising software architecture
 
 ### The C4 model
 
