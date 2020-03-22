@@ -17,11 +17,14 @@
 
 * [Recommended Reading for Developers](https://www.fabianmagrini.com/2016/03/recommended-reading-for-developers.html)
 * [Software Craftsmanship](https://www.goodreads.com/list/show/8379.Software_Craftsmanship#3735293)
+* [Developer to Architect - Software Architecture Book References](https://www.developertoarchitect.com/books.html)
 
 ### Books
 
+* [Fundamentals of Software Architecture](https://www.oreilly.com/library/view/fundamentals-of-software/9781492043447/)
 * [Building Evolutionary Architectures](https://www.thoughtworks.com/books/building-evolutionary-architectures)
 * [Release It!](https://pragprog.com/book/mnee2/release-it-second-edition)
+* [Software Architect's Handbook](https://www.packtpub.com/au/application-development/software-architects-handbook)
 * [Accelerate - The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://itrevolution.com/book/accelerate/)
 * [Designing Distributed Systems](https://azure.microsoft.com/en-au/resources/designing-distributed-systems/)
 * [Site Reliability Engineering](https://landing.google.com/sre/books/)
