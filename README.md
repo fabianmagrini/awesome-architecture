@@ -10,6 +10,7 @@
 * [Emily Bache - Technical Leadership and Empowered Teams](https://youtu.be/qnujkFY2gKs) (50 min)
 * [Simon Brown: The Lost Art of Software Design - SCL Conf 2019](https://youtu.be/qO73yObPYac) (50 min)
 * [Qualities of a Highly Effective Architect Keynote by Venkat Subramaniam](https://youtu.be/QeKheNfO3Yg) (50 min)
+* [GOTO 2020 - Software Is Details - Kevlin Henney](https://youtu.be/kX0prJklhUE) (50 min)
 
 ## Book Lists and Books
 
@@ -29,6 +30,12 @@
 * [Designing Distributed Systems](https://azure.microsoft.com/en-au/resources/designing-distributed-systems/)
 * [Site Reliability Engineering](https://landing.google.com/sre/books/)
 
+## Continuous Architecture
+
+* [Continuous Architecture - Sustainable Architecture in an Agile and Cloud-Centric World - Murat Erder and Pierre Pureur](https://www.sciencedirect.com/book/9780128032848/continuous-architecture)
+* [GOTO 2016 - Continuous Architecture - Murat Erder](https://youtu.be/3xw3a35yLOQ)
+* [Continuous Architecture - An Open source Initiative launched by MICHELIN and GLUENDO](https://continuous-architecture.com/)
+  
 ## Continuous Delivery
 
 * [Continuous Delivery](https://continuousdelivery.com/)
