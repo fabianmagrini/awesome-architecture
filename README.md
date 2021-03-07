@@ -29,6 +29,7 @@
 * [Accelerate - The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://itrevolution.com/book/accelerate/)
 * [Designing Distributed Systems](https://azure.microsoft.com/en-au/resources/designing-distributed-systems/)
 * [Site Reliability Engineering](https://landing.google.com/sre/books/)
+* [A Philosophy of Software Design](https://www.goodreads.com/book/show/43701534-a-philosophy-of-software-design)
 
 ## Continuous Architecture
 
