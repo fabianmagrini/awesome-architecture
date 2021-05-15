@@ -30,6 +30,7 @@
 * [Designing Distributed Systems](https://azure.microsoft.com/en-au/resources/designing-distributed-systems/)
 * [Site Reliability Engineering](https://landing.google.com/sre/books/)
 * [A Philosophy of Software Design](https://www.goodreads.com/book/show/43701534-a-philosophy-of-software-design)
+* [Software Design for Flexibility](https://mitpress.mit.edu/books/software-design-flexibility)
 
 ## Continuous Architecture
 
