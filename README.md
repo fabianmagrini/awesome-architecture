@@ -52,6 +52,10 @@
 * [Jez Humble - Building and Scaling High Performing Technology Organizations](https://youtu.be/CN6uhzNM4eA)
 * [GOTO 2019 - Modern Continuous Delivery - Ken Mugrage](https://youtu.be/w008iz_UwDk)
 
+## Platform Thinking
+
+* [The Art of Platform Thinking](https://www.thoughtworks.com/insights/blog/art-platform-thinking)
+
 ## Domain Driven Design and Microservices
 
 * [DDD and Microservices: At Last, Some Boundaries!](https://youtu.be/sFCgXH7DwxM)
