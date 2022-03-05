@@ -41,6 +41,10 @@
 * [Continuous Architecture - Sustainable Architecture in an Agile and Cloud-Centric World - Murat Erder and Pierre Pureur](https://www.sciencedirect.com/book/9780128032848/continuous-architecture)
 * [GOTO 2016 - Continuous Architecture - Murat Erder](https://youtu.be/3xw3a35yLOQ)
 * [Continuous Architecture - An Open source Initiative launched by MICHELIN and GLUENDO](https://continuous-architecture.com/)
+
+### Practice of Architecture
+
+* [Scaling the Practice of Architecture, Conversationally](https://martinfowler.com/articles/scaling-architecture-conversationally.html)
   
 ## Continuous Delivery
 
