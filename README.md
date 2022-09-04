@@ -104,10 +104,12 @@
 
 ## .Net
 
-* [Clean Architecture with ASP.NET Core 2.2 - Jason Taylor](https://youtu.be/Zygw4UAxCdg)
+* [Clean Architecture with ASP.NET Core 3.0 - Jason Taylor - GOTO 2019](https://youtu.be/dK4Yb6-LxAk)
 * [Architecture Workshop 1 of 7 - Steve Smith shows us Clean Architecture](https://youtu.be/k8cZUW4MS3I)
+* [Clean Architecture with ASP.NET Core with Steve Smith | Hampton Roads .NET Users Group](https://youtu.be/tdiOqW4ZYu4)
 * [.NET Application Architecture Guidance](https://docs.microsoft.com/en-us/dotnet/architecture/)
 * [.NET Microservices: Architecture for Containerized .NET Applications](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/)
+* [Software Architecture by Example Using C# and .NET](https://link.springer.com/book/10.1007/978-1-4842-7990-8)
 
 ## Patterns
 
