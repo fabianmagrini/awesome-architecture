@@ -10,7 +10,9 @@
 * [Emily Bache - Technical Leadership and Empowered Teams](https://youtu.be/qnujkFY2gKs) (50 min)
 * [Simon Brown: The Lost Art of Software Design - SCL Conf 2019](https://youtu.be/qO73yObPYac) (50 min)
 * [Qualities of a Highly Effective Architect Keynote by Venkat Subramaniam](https://youtu.be/QeKheNfO3Yg) (50 min)
-* [GOTO 2020 - Software Is Details - Kevlin Henney](https://youtu.be/kX0prJklhUE) (50 min)
+* [Software Is Details by Kevlin Henney - GOTO 2020](https://youtu.be/kX0prJklhUE) (50 min)
+* [What Software Architecture Should Look Like by Dave Farley](https://youtu.be/ElMnHDSFaCw) (20 min)
+* [Coevolution of Architecture & Code - Closing The Gap by Dave Thomas - YOW! 2022](https://youtu.be/slGZMTFPElo) (50 min)
 
 ## Book Lists and Books
 
@@ -35,6 +37,7 @@
 * [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
 * [The Software Architect Elevator](https://architectelevator.com/book/)
 * [Cloud Strategy - A Decision-based Approach to Successful Cloud Migration](https://architectelevator.com/book/cloudstrategy/)
+* [Modern Software Engineering](https://www.davefarley.net/?p=352)
 
 ## Continuous Architecture
 
