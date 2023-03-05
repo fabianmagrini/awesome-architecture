@@ -155,3 +155,4 @@
 
 * [Awesome Software Architecture](https://github.com/simskij/awesome-software-architecture)
 * [Awesome Engineering Strategy](https://github.com/aleixmorgadas/awesome-engineering-strategy)
+* [Awesome Event Patterns](https://github.com/boyney123/awesome-event-patterns)
