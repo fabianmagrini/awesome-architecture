@@ -154,3 +154,4 @@
 ## Awesome Lists
 
 * [Awesome Software Architecture](https://github.com/simskij/awesome-software-architecture)
+* [Awesome Engineering Strategy](https://github.com/aleixmorgadas/awesome-engineering-strategy)
