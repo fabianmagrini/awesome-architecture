@@ -113,6 +113,7 @@
 * [.NET Application Architecture Guidance](https://docs.microsoft.com/en-us/dotnet/architecture/)
 * [.NET Microservices: Architecture for Containerized .NET Applications](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/)
 * [Software Architecture by Example Using C# and .NET](https://link.springer.com/book/10.1007/978-1-4842-7990-8)
+* [Beyond Hexagonal Architecture](https://github.com/42skillz/livecoding-beyond-hexagonal-architecture)
 
 ## Patterns
 
