@@ -105,6 +105,10 @@
 * [Securing Web Applications and APIs with ASP.NET Core 2.2 and 3.0 - Dominick Baier](https://youtu.be/_GF9GtyBQsA)
 * [Microservice Authentication and Authorization - Nic Jackson](https://youtu.be/ZjPF8yZ83Wo)
 
+## System Design
+
+* [System Design Course](https://github.com/karanpratapsingh/system-design)
+
 ## .Net
 
 * [Clean Architecture with ASP.NET Core 3.0 - Jason Taylor - GOTO 2019](https://youtu.be/dK4Yb6-LxAk)
