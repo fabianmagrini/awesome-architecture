@@ -39,6 +39,11 @@
 * [Cloud Strategy - A Decision-based Approach to Successful Cloud Migration](https://architectelevator.com/book/cloudstrategy/)
 * [Modern Software Engineering](https://www.davefarley.net/?p=352)
 
+## Fundamentals
+
+* [Developer to Architect - Software Architecture Monday with Mark Richards](https://www.developertoarchitect.com/lessons/)
+* [24 Fundamental Techniques for Software Architects](https://www.workingsoftware.dev/fundamental-techniques-for-software-architects/)
+
 ## Continuous Architecture
 
 * [Continuous Architecture - Sustainable Architecture in an Agile and Cloud-Centric World - Murat Erder and Pierre Pureur](https://www.sciencedirect.com/book/9780128032848/continuous-architecture)
@@ -161,4 +166,3 @@
 * [Awesome Software Architecture](https://github.com/simskij/awesome-software-architecture)
 * [Awesome Engineering Strategy](https://github.com/aleixmorgadas/awesome-engineering-strategy)
 * [Awesome Event Patterns](https://github.com/boyney123/awesome-event-patterns)
-* [24 Fundamental Techniques for Software Architects](https://www.workingsoftware.dev/fundamental-techniques-for-software-architects/)
