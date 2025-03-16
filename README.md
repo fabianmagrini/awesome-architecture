@@ -43,6 +43,7 @@
 
 * [Developer to Architect - Software Architecture Monday with Mark Richards](https://www.developertoarchitect.com/lessons/)
 * [24 Fundamental Techniques for Software Architects](https://www.workingsoftware.dev/fundamental-techniques-for-software-architects/)
+* [Architecture Principles](https://gist.github.com/fabianmagrini/478dafc245d446c53c8cedd63622958a)
 
 ## Continuous Architecture
 
