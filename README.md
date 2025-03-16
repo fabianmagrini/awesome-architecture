@@ -147,8 +147,10 @@
 ### Architecture Decision Records
 
 * [Lightweight Architecture Decision Records](https://www.thoughtworks.com/radar/techniques/lightweight-architecture-decision-records)
+* [Architecture decision record (ADR)](https://github.com/joelparkerhenderson/architecture-decision-record)
 * [ADR Tools](https://github.com/npryce/adr-tools)
 * [Markdown Architectural Decision Records](https://adr.github.io/madr/)
+* [Decision Capturing Tools](https://adr.github.io/adr-tooling/)
 
 ### arc42
 
