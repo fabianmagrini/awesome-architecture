@@ -64,6 +64,8 @@
 * [Dave Farley - Optimising Continuous Delivery - PIPELINE conference 2018](https://youtu.be/gDgAVqkFYWs)
 * [Jez Humble - Building and Scaling High Performing Technology Organizations](https://youtu.be/CN6uhzNM4eA)
 * [GOTO 2019 - Modern Continuous Delivery - Ken Mugrage](https://youtu.be/w008iz_UwDk)
+* [Learning Continuous Delivery](https://gist.github.com/fabianmagrini/36ea0965132fedc698a41be004c792fd)
+* [DevOps Fundamentals](https://gist.github.com/fabianmagrini/ad393068aeaf46ceb1efde06d8c1ec75)
 
 ## Platform Thinking
 
