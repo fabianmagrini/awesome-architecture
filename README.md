@@ -99,6 +99,7 @@
 * [Book "REST in Practice"](https://restinpractice.com/book.html)
 * [JSON Merge Patch](https://tools.ietf.org/html/rfc7396)
 * [JSON Patch](https://tools.ietf.org/html/rfc6902)
+* [Learning API Design](https://gist.github.com/fabianmagrini/54a909a7112cbef0922b389f55fafaea)
 
 ### API Tools
 
