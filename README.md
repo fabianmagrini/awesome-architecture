@@ -117,6 +117,7 @@
 ## System Design
 
 * [System Design Course](https://github.com/karanpratapsingh/system-design)
+* [System Design in a Hurry](https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction)
 
 ## Platform Specific
 
