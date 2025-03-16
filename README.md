@@ -121,6 +121,7 @@
 ## Platform Specific
 
 * [Learning .Net Architecture](https://gist.github.com/fabianmagrini/78e4bc626d811f993921dc028688bcae)
+* [Learning Micro-Frontends](https://gist.github.com/fabianmagrini/fd75c135d6cd83c654158c2157674a9d)
 
 ## Patterns
 
