@@ -163,6 +163,10 @@
 * [The C4 model for visualising software architecture](https://c4model.com/)
 * [C4-PlantUML](https://github.com/RicardoNiepel/C4-PlantUML)
 
+### Diagramming Tools
+
+* [Architecture Diagramming Tools, and the AI Gap](https://generativeprogrammer.com/p/architecture-diagramming-tools-and)
+
 ## Awesome Lists
 
 * [Awesome Software Architecture](https://github.com/simskij/awesome-software-architecture)
