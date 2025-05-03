@@ -82,6 +82,7 @@
 * [YOW! 2011 Jim Webber - Domain-Driven Design for RESTful Systems](https://youtu.be/aQVSzMV8DWc)
 * [The Art of Discovering Bounded Contexts by Nick Tune](https://youtu.be/ez9GWESKG4I)
 * [Design Microservice Architectures the Right Way](https://youtu.be/j6ow-UemzBc)
+* [Monolith Decomposition Patterns - Sam Newman](https://youtu.be/64w1zbpHGTg?si=SyZg5KFdjKrPRGO0)
 * [Legacy Architecture Modernisation With Strategic Domain-Driven Design - Nick Tune](https://medium.com/nick-tune-tech-strategy-blog/legacy-architecture-modernisation-with-strategic-domain-driven-design-3e7c05bb383f)
 * [Domain-Driven Design Starter Modelling Process](https://github.com/ddd-crew/ddd-starter-modelling-process)
 * [Building Microservices](https://samnewman.io/books/building_microservices_2nd_edition/)
