@@ -13,7 +13,7 @@
 * [Software Is Details by Kevlin Henney - GOTO 2020](https://youtu.be/kX0prJklhUE) (50 min)
 * [What Software Architecture Should Look Like by Dave Farley](https://youtu.be/ElMnHDSFaCw) (20 min)
 * [Coevolution of Architecture & Code - Closing The Gap by Dave Thomas - YOW! 2022](https://youtu.be/slGZMTFPElo) (50 min)
-* [Five things every developer should know about software architecture by Simon Brown](https://youtu.be/jzp0PGVegHA?si=CBwGyhnpnhA72X5Z)(45 min)
+* [Five things every developer should know about software architecture by Simon Brown](https://youtu.be/jzp0PGVegHA?si=CBwGyhnpnhA72X5Z) (45 min)
 
 ## Book Lists and Books
 
