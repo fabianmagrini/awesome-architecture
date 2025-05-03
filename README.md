@@ -39,6 +39,7 @@
 * [The Software Architect Elevator](https://architectelevator.com/book/)
 * [Cloud Strategy - A Decision-based Approach to Successful Cloud Migration](https://architectelevator.com/book/cloudstrategy/)
 * [Modern Software Engineering](https://www.davefarley.net/?p=352)
+* [Software Architecture for Developers](https://leanpub.com/software-architecture-for-developers)
 
 ## Fundamentals
 
