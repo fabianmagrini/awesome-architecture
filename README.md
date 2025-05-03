@@ -1,5 +1,7 @@
 # Awesome Architecture
 
+A curated list of resources on software architecture in the Agile and Cloud era. If you prefer a youtube playlist find our [list here](https://youtube.com/playlist?list=PLq-S-mihzsNzzXfVZjvVbSfAzjGtWl1hJ&si=whiB6RbaRvW1yNCa).
+
 ## What is Architecture
 
 * [Making Architecture Matter - Martin Fowler Keynote](https://youtu.be/DngAZyWMGR0) (15 min)
