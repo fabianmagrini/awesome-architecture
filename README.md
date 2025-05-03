@@ -19,7 +19,7 @@
 
 ### Lists
 
-* [Recommended Reading for Developers](https://www.fabianmagrini.com/2016/03/recommended-reading-for-developers.html)
+* [Recommended Reading for Architects](https://www.fabianmagrini.com/2025/01/books-that-i-am-reading-in-2025.html)
 * [Software Craftsmanship](https://www.goodreads.com/list/show/8379.Software_Craftsmanship#3735293)
 * [Developer to Architect - Software Architecture Book References](https://www.developertoarchitect.com/books.html)
 
