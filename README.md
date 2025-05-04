@@ -121,7 +121,10 @@ A curated list of resources on software architecture in the Agile and Cloud era.
 ## Security
 
 * [Securing Web Applications and APIs with ASP.NET Core 2.2 and 3.0 - Dominick Baier](https://youtu.be/_GF9GtyBQsA)
+* [OAuth - the good Parts - Dominick Baier - NDC Oslo 2021](https://youtu.be/y2Psj8ACZyw?si=ioT2vT2aFnsSfoX2)
+* [PAR: Securing the OAuth and OpenID Connect Front-Channel - Dominick Baier - NDC Security 2024](https://youtu.be/IZyXOYNXbPk?si=jxOqvRUa-9hj67JH)
 * [Microservice Authentication and Authorization - Nic Jackson](https://youtu.be/ZjPF8yZ83Wo)
+* [Authentication and authorization in a microservice architecture](https://microservices.io/post/architecture/2025/04/25/microservices-authn-authz-part-1-introduction.html)
 
 ## System Design
 
